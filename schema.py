@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 14 22:09:00 2020
-
-@author: wendymy
-"""
 # import libraries
 import sqlite3
 
