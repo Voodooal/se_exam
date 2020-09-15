@@ -3,7 +3,7 @@
 The working code for the software exam can be found in policyholder.py.
 
 ## Design a schema for policyholders
-The schema designed can be found in schema.py.
+The schema designed can be found in [schema.py](https://github.com/Voodooal/se_exam/blob/master/schema.py).
 
 ## Design a data structure for aggregate metrics
 ```python
