@@ -1,9 +1,10 @@
 # se_exam
 ## Working code
-The working code for the software exam can be found in policyholder.py.
+The working code for the software exam can be found in [se_exam.py](https://github.com/Voodooal/se_exam/blob/master/se_exam.py).
 
 ## Design a schema for policyholders
 The schema designed can be found in [schema.py](https://github.com/Voodooal/se_exam/blob/master/schema.py).
+The corresponding class for each table is defined in [policyholder.py](https://github.com/Voodooal/se_exam/blob/master/policyholder.py), [medical_condition.py](https://github.com/Voodooal/se_exam/blob/master/medical_conditions.py), and [insured_events.py](https://github.com/Voodooal/se_exam/blob/master/insured_events.py)
 
 ## Design a data structure for aggregate metrics
 ```python
